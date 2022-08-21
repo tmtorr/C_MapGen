@@ -16,7 +16,7 @@ For Linux and OSX:
 1) Run make on the makefile
 2) It should compile into a .sh or runnable file
 
-In the case that the user doesn't want to compile the program I've included a .exe that can run on windows. 
+In the case that the user doesn't want to compile the program I've released a .exe that can run on windows. 
 Just double click it!
 
 # More Randomly Generated Samples!
